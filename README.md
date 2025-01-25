@@ -5,14 +5,14 @@
 
 Desafio destinado a lógica de programação.
 
-🚀 <h2>Funcionalidades </h2>
+🚀<h2>Funcionalidades </h2>
 
 Sortear um amigo secreto
 
 Função de garantir que a pessoa não seja sorteada duas vezes.
 
  
-🛠    <h2>Tecnologias </h2>
+🛠<h2>Tecnologias </h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
