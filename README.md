@@ -8,6 +8,7 @@ Desafio destinado a lógica de programação.
 🚀 Funcionalidades 
 
 Sortear um amigo secreto
+
 Função de garantir que a pessoa não seja sorteada duas vezes.
 
  
