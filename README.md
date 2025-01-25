@@ -1,18 +1,18 @@
 <h1>Jogo do amigo secreto</h1>
 
   
-<p>Projeto Challenge "Amigo Secreto" da Alura.</p>
+<h2>Projeto Challenge "Amigo Secreto" da Alura.</h2>
 
 Desafio destinado a lógica de programação.
 
-🚀Funcionalidades 
+🚀 Funcionalidades 
 
 Sortear um amigo secreto
-
 Função de garantir que a pessoa não seja sorteada duas vezes.
 
  
 🛠Tecnologias 
+
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
